@@ -1,0 +1,1 @@
+window.MD_CFG={"url": "https://sigsahrcveaqtggunfqx.supabase.co", "anon": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNpZ3NhaHJjdmVhcXRnZ3VuZnF4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUzNTE4NjIsImV4cCI6MjExMDkyNzg2Mn0.hG2dwp7V2_4JuEodO39OINfhSJ5W31S5hDd8H7QmwEg"};
